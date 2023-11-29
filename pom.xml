@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>br.com.unidep</groupId>
 	<artifactId>demo-prova-n2</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>demo-prova-n2</name>
 	<description>Demo para prova de versionamento</description>
 	<properties>
